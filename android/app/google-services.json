@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982916810709",
+    "project_id": "turingtestrun-9d565",
+    "storage_bucket": "turingtestrun-9d565.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982916810709:android:a9dd1e12bf4456350adf5c",
+        "android_client_info": {
+          "package_name": "com.example.turing_test_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982916810709-r3o0ogcr30pmesfi18hpg5b0hmog807h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDby5KQQy-hlSFh1M12wJkXtH5v-U3ochw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982916810709-r3o0ogcr30pmesfi18hpg5b0hmog807h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
