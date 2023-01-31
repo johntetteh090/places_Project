@@ -4,7 +4,8 @@ import 'dart:convert' as convert;
 
 class LocationService{
 
-  final String key = "AIzaSyDby5KQQy-hlSFh1M12wJkXtH5v-U3ochw";
+  final String key = "";
+  //PLACE YOUR API KEY THERE
 
   Future<String> getPlacesId (String input) async{
 
